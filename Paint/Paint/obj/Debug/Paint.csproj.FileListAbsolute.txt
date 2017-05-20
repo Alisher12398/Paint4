@@ -1,0 +1,18 @@
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.pdb
+c:\users\rinat\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\PT\Paint\Paint\bin\Debug\Paint.exe.config
+C:\PT\Paint\Paint\bin\Debug\Paint.exe
+C:\PT\Paint\Paint\bin\Debug\Paint.pdb
+C:\PT\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\PT\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\PT\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\PT\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\PT\Paint\Paint\obj\Debug\Paint.exe
+C:\PT\Paint\Paint\obj\Debug\Paint.pdb
